@@ -5,7 +5,6 @@ public class PracticeQuestion4 {
         int result = fib(n);
         System.out.println("The " + n + "th Fibonacci number is: " + result);
     }
-adada
     public static int fib(int n) {
         if (n == 0) {
             return 0; 
