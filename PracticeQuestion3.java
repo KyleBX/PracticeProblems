@@ -6,7 +6,7 @@ public class PracticeQuestion3 {
             {4.5, 5.5, 6.5},
             {7.5, 8.5, 9.5}
         };
-           double result = sumGrid(grid);
+        double result = sumGrid(grid);
         System.out.println("The sum of the grid elements is: " + result);
     }
 
